@@ -3,6 +3,11 @@
 <!--
 **jonofficial/jonofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3" width="350" />
+</p>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,9 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/contributions?format=svg" width="350" />
-    </a>
-</p>
+
 
