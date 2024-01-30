@@ -3,10 +3,6 @@
 <!--
 **jonofficial/jonofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3" width="350" />
-</p>
-
 
 Here are some ideas to get you started:
 
@@ -20,5 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3" width="350" />
+</p>
 
 
