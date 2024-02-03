@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-    <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="70" />
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/1ac15979b7b0b0efd55e89a963aacc10a0c53df7/5-modified.png" width="80" />
     <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3&raw=true" width="350" />
-</p>
+</div>
 
 
 
