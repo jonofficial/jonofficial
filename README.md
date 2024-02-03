@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p>
-    <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3&raw=true" width="250" />
+    <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3&raw=true" width="150" />
 </p>
 
 
