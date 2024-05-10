@@ -10,7 +10,6 @@
     <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3&raw=true" width="350"/>
 </p>
 
-![](https://raw.githubusercontent.com/jonofficial/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonofficial)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonofficial&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
