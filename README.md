@@ -10,6 +10,7 @@
     <img src="https://api.vaunt.dev/v1/github/entities/jonofficial/achievements?format=svg&limit=3&raw=true" width="350"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonofficial)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
