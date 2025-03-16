@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer skilled in 
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/s-jonathan-harrison-58b121254/) 
 
 ### 🎓 Key Experience
-- **Defense Research and Development Laboratory, Hyderabad
+- **Defense Research and Development Laboratory, Hyderabad**
   - Implemented SVM algorithms for target classification and analyzed deep neural networks for missile performance metrics.
 
 ### 🏆 Achievements
