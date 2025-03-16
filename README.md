@@ -1,6 +1,6 @@
 # Hi, I'm S Jonathan Harrison 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic software developer skilled in a variety of programming languages and frameworks. With a track record of winning hackathons and participating in competitive programming, I am always eager to tackle complex problems and innovate with technology. Here’s a snapshot of my achievements and technical expertise:
+Welcome to my GitHub profile! I'm an enthusiastic software developer skilled in a variety of programming languages and frameworks. Here’s a snapshot of my achievements and technical expertise:
 
 ## 🚀 About Me
 - **Location:** Chennai, India
