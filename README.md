@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer skilled in 
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/s-jonathan-harrison-58b121254/) 
 
 ### 🎓 Key Experience
+- **Samsung R&D Institute India, Bangalore**
+  - Conducted research on review-based recommender systems using the MobileRec dataset, focusing on games domain and implemented matrix factorization models (LightFM, iALS) achieving improvement over baseline models.
 - **Defense Research and Development Laboratory, Hyderabad**
   - Implemented SVM algorithms for target classification and analyzed deep neural networks for missile performance metrics.
 
@@ -20,7 +22,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer skilled in 
 ### 🔧 Technologies & Tools
 - **Languages:** Python, C, C++, Java, HTML, CSS, JavaScript, R, MATLAB, TypeScript, Bash, Solidity
 - **Frameworks:** Node.js, Express.js, React.js, Next.js
-- **Databases:** MongoDB, MySQL, Firebase
+- **Databases:** MongoDB, MySQL
 - **Tools:** Git/GitHub, Docker, Postman, Ethers.js, Hardhat
 
 ## 🌟 Projects
