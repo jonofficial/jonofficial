@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer skilled in 
 
 ## 🌟 Projects
 I have worked on a variety of projects ranging from deep learning models to full-stack web applications. Some of the notable projects include:
+- **Recommender Systems and Big data analytics:** Implemented hybrid models to improve personalised recommendations
 - **Cruise Missile ML Analysis:** Application of machine learning in military technology.
 - **Blockchain-Based Systems:** Development of secure and efficient blockchain applications.
 - **Web Development:** Building responsive and dynamic web applications using modern JavaScript frameworks.
