@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer skilled in 
 - **Samsung R&D Institute India, Bangalore**
   - Conducted research on review-based recommender systems using the MobileRec dataset, focusing on games domain and implemented matrix factorization models (LightFM, iALS) achieving improvement over baseline models.
 - **Defense Research and Development Laboratory, Hyderabad**
-  - Implemented SVM algorithms for target classification and analyzed deep neural networks for missile performance metrics.
+  - Implemented SVM algorithms for target classification based on RCS data along with synthetic RCS data generation and analyzed deep neural networks for predicting critical missile performance metrics.
 
 ### 🏆 Achievements
 - **Winner - DEFY'24 Hackathon:** Awarded 1st place out of 30 teams with a cash prize of ₹30k.
